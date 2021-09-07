@@ -1,0 +1,4 @@
+https://stackoverflow.com/questions/27818856/docker-add-warfile-to-official-tomcat-image
+
+---app
+для логина: перейти по /Users и ввести admin/password в поля ввода

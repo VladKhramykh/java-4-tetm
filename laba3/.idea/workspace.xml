@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85ebb6d1-ca01-4b7e-9496-0c2d35e8aaed" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../laba1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../laba1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../laba10/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba13/files/~WRL2397.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba15/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../laba15/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../laba2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../laba5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba5/src/main/java/servlets/Ttt.java" beforeDir="false" afterPath="$PROJECT_DIR$/../laba5/src/main/java/servlets/Ttt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba5/src/main/java/tags/SurnameTag.java" beforeDir="false" afterPath="$PROJECT_DIR$/../laba5/src/main/java/tags/SurnameTag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba5/target/classes/servlets/Ttt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../laba5/target/classes/servlets/Ttt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba5/target/classes/tags/SurnameTag.class" beforeDir="false" afterPath="$PROJECT_DIR$/../laba5/target/classes/tags/SurnameTag.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba5/target/laba5-1.0-classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../laba5/target/laba5-1.0-classes.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba5/target/laba5-1.0.war" beforeDir="false" afterPath="$PROJECT_DIR$/../laba5/target/laba5-1.0.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba5/target/laba5-1.0/Ttt.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../laba5/target/laba5-1.0/Ttt.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba5/target/laba5-1.0/WEB-INF/classes/servlets/Ttt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../laba5/target/laba5-1.0/WEB-INF/classes/servlets/Ttt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba5/target/laba5-1.0/WEB-INF/classes/tags/SurnameTag.class" beforeDir="false" afterPath="$PROJECT_DIR$/../laba5/target/laba5-1.0/WEB-INF/classes/tags/SurnameTag.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba5/target/laba5-1.0/WEB-INF/tags.tld" beforeDir="false" afterPath="$PROJECT_DIR$/../laba5/target/laba5-1.0/WEB-INF/tags.tld" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba5/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../laba5/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba5/web/Ttt.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../laba5/web/Ttt.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba5/web/WEB-INF/tags.tld" beforeDir="false" afterPath="$PROJECT_DIR$/../laba5/web/WEB-INF/tags.tld" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba6and7and9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../laba6and7and9/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba6and7and9/src/main/java/servlets/Ccc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../laba6and7and9/src/main/java/servlets/Ccc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba6and7and9/target/classes/servlets/Ccc.class" beforeDir="false" afterPath="$PROJECT_DIR$/../laba6and7and9/target/classes/servlets/Ccc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba6and7and9/target/laba6and7and9-1.0-classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../laba6and7and9/target/laba6and7and9-1.0-classes.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba6and7and9/target/laba6and7and9-1.0.war" beforeDir="false" afterPath="$PROJECT_DIR$/../laba6and7and9/target/laba6and7and9-1.0.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba6and7and9/target/laba6and7and9-1.0/WEB-INF/classes/servlets/Ccc.class" beforeDir="false" afterPath="$PROJECT_DIR$/../laba6and7and9/target/laba6and7and9-1.0/WEB-INF/classes/servlets/Ccc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba6and7and9/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../laba6and7and9/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../laba8/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1h9A65R5b2IRNz6tgifVuIZQhLS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Univer\sem7\java\labs\laba3\web" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 8.5.47" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.47" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/laba3/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <file path="$PROJECT_DIR$/target/laba3-1.0.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/laba3" />
+          </settings>
+        </file>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_laba3" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61596" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85ebb6d1-ca01-4b7e-9496-0c2d35e8aaed" name="Default Changelist" comment="" />
+      <created>1599412755439</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599412755439</updated>
+      <workItem from="1599412757387" duration="10738000" />
+      <workItem from="1599426229256" duration="39000" />
+      <workItem from="1599455827693" duration="2946000" />
+      <workItem from="1599461488612" duration="161000" />
+      <workItem from="1599465733267" duration="817000" />
+      <workItem from="1599477900504" duration="674000" />
+      <workItem from="1599670186229" duration="74000" />
+      <workItem from="1600161852136" duration="190000" />
+      <workItem from="1602582930771" duration="47000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Sss.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Sss.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Mmm.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
+        <watch expression="gm.getResponseBodyAsString()" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

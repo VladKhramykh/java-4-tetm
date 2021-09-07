@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="test-mock-resources-9.4.35.v20201120">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Jetty/demo-base/lib/ext/test-mock-resources-9.4.35.v20201120.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

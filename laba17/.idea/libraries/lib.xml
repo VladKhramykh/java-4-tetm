@@ -1,0 +1,46 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Jetty/lib/jetty-alpn-openjdk8-server-9.4.35.v20201120.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jetty/lib/jetty-alpn-server-9.4.35.v20201120.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jetty/lib/jetty-servlet-9.4.35.v20201120.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jetty/lib/jetty-client-9.4.35.v20201120.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jetty/lib/jetty-jmx-9.4.35.v20201120.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jetty/lib/jetty-schemas-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jetty/lib/jetty-plus-9.4.35.v20201120.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jetty/lib/jetty-proxy-9.4.35.v20201120.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jetty/lib/jetty-http-9.4.35.v20201120.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jetty/lib/jetty-gcloud-session-manager-9.4.35.v20201120.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jetty/lib/jetty-servlets-9.4.35.v20201120.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jetty/lib/jetty-memcached-sessions-9.4.35.v20201120.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jetty/lib/jetty-jaspi-9.4.35.v20201120.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jetty/lib/jetty-unixsocket-9.4.35.v20201120.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jetty/lib/jetty-jndi-9.4.35.v20201120.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jetty/lib/jetty-alpn-java-server-9.4.35.v20201120.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jetty/lib/jetty-deploy-9.4.35.v20201120.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jetty/lib/jetty-server-9.4.35.v20201120.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jetty/lib/infinispan-embedded-query-9.4.35.v20201120.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jetty/lib/jetty-io-9.4.35.v20201120.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jetty/lib/infinispan-common-9.4.35.v20201120.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jetty/lib/jetty-jaas-9.4.35.v20201120.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jetty/lib/jetty-rewrite-9.4.35.v20201120.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jetty/lib/servlet-api-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jetty/lib/jetty-xml-9.4.35.v20201120.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jetty/lib/jetty-cdi-9.4.35.v20201120.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jetty/lib/jetty-webapp-9.4.35.v20201120.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jetty/lib/jetty-alpn-conscrypt-server-9.4.35.v20201120.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jetty/lib/jetty-hazelcast-9.4.35.v20201120.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jetty/lib/infinispan-remote-query-9.4.35.v20201120.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jetty/lib/jetty-annotations-9.4.35.v20201120.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jetty/lib/jetty-security-9.4.35.v20201120.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jetty/lib/jetty-util-9.4.35.v20201120.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jetty/lib/jetty-util-ajax-9.4.35.v20201120.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jetty/lib/jetty-nosql-9.4.35.v20201120.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jetty/lib/jetty-openid-9.4.35.v20201120.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jetty/lib/jetty-quickstart-9.4.35.v20201120.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jetty/lib/jetty-continuation-9.4.35.v20201120.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
